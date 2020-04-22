@@ -3,4 +3,4 @@ It is a web application which aggregates data (news articles) from multiple webs
 
 Here's the screenshot for the demo
 
-![](m_merged.png)
+![](demo.png)
